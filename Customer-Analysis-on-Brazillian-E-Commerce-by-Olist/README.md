@@ -1,9 +1,4 @@
 # Brazilian E-Commerce Public Dataset by Olist
-This Documentation presented by Gamma Team:
-
-Mario Billy Gunawan <br>
-Muhammad Reyhan <br>
-Muhamad Rafif <br>
 ## Business Understanding <br>
 ### Introduction <br>
 Olist, a Brazilian e-commerce marketplace integrator, is an online e-commerce site aggregation platform designed to facilitate direct sales on e-commerce sites of Brazil. The company's platform connects entrepreneurs with major online retailers and allows shopkeepers to advertise and sell in the marketplaces without complication, enabling retail companies to reach out to the international marketplaces, improve the shopping experience and modify their purchasing behavior. Olist connects small businesses from all over Brazil to channels without hassle and with a single contract. Those merchants are able to sell their products through the Olist Store and ship them directly to the customers using Olist logistics partners. After a customer purchases the product from Olist Store a seller gets notified to fulfill that order. Once the customer receives the product, or the estimated delivery date is due, the customer gets a satisfaction survey by email where he can give a note for the purchase experience and write down some comments. <br>
