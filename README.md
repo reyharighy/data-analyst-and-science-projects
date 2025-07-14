@@ -215,8 +215,7 @@ This project accelerates data-driven decision-making by offering modular tools f
 	</details>
 </details>
 
-<details closed>
-<summary>Contributing Guidelines</summary>
+### Contributing Guidelines
 
 1. **Fork the Repository**: Start by forking the project repository to your github account.
 2. **Clone Locally**: Clone the forked repository to your local machine using a git client.
@@ -238,7 +237,6 @@ This project accelerates data-driven decision-making by offering modular tools f
    ```
 7. **Submit a Pull Request**: Create a PR against the original project repository. Clearly describe the changes and their motivations.
 8. **Review**: Once your PR is reviewed and approved, it will be merged into the main branch. Congratulations on your contribution!
-</details>
 
 ---
 
