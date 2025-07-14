@@ -244,7 +244,7 @@ This project accelerates data-driven decision-making by offering modular tools f
 <summary>Contributor Graph</summary>
 <br>
 <p align="left">
-   <a href="https://github.com{/reyharighy/data-analyst-and-science-projects/}graphs/contributors">
+   <a href="https://github.com/reyharighy">
       <img src="https://contrib.rocks/image?repo=reyharighy/data-analyst-and-science-projects">
    </a>
 </p>
