@@ -43,7 +43,7 @@ This project accelerates data-driven decision-making by offering modular tools f
 
 ### Project Index
 
-<details open>
+<details closed>
 	<summary><b><code>DATA-ANALYST-AND-SCIENCE-PROJECTS/</code></b></summary>
 	<!-- __root__ Submodule -->
 	<details>
