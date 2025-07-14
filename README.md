@@ -45,22 +45,6 @@ This project accelerates data-driven decision-making by offering modular tools f
 
 <details closed>
 	<summary><b><code>DATA-ANALYST-AND-SCIENCE-PROJECTS/</code></b></summary>
-	<!-- __root__ Submodule -->
-	<details>
-		<summary><b>__root__</b></summary>
-		<blockquote>
-			<div class='directory-path' style='padding: 8px 0; color: #666;'>
-				<code><b>⦿ __root__</b></code>
-			<table style='width: 100%; border-collapse: collapse;'>
-			<thead>
-				<tr style='background-color: #f8f9fa;'>
-					<th style='width: 30%; text-align: left; padding: 8px;'>File Name</th>
-					<th style='text-align: left; padding: 8px;'>Summary</th>
-				</tr>
-			</thead>
-			</table>
-		</blockquote>
-	</details>
 	<!-- Customer-Analysis-on-Brazillian-E-Commerce-by-Olist Submodule -->
 	<details>
 		<summary><b>Customer-Analysis-on-Brazillian-E-Commerce-by-Olist</b></summary>
