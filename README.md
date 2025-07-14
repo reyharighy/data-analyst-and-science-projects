@@ -34,7 +34,7 @@
 
 ## Overview
 
-data-analyst-and-science-projects is a versatile toolkit designed to streamline data analysis, NLP, and visualization workflows for diverse projects. It provides essential utilities for text preprocessing, feature extraction, sentiment analysis, and data visualization, enabling developers to build robust analytical pipelines efficiently.
+This repo is a versatile toolkit designed to streamline data analysis, NLP, and visualization workflows for diverse projects. It provides essential utilities for text preprocessing, feature extraction, sentiment analysis, and data visualization, enabling developers to build robust analytical pipelines efficiently.
 
 **Why data-analyst-and-science-projects?**
 
