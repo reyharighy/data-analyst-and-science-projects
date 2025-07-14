@@ -25,13 +25,6 @@
 
 ---
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Contributing](#contributing)
-
----
-
 ## Overview
 
 This repo is a versatile toolkit designed to streamline data analysis, NLP, and visualization workflows for diverse projects. It provides essential utilities for text preprocessing, feature extraction, sentiment analysis, and data visualization, enabling developers to build robust analytical pipelines efficiently.
@@ -221,14 +214,6 @@ This project accelerates data-driven decision-making by offering modular tools f
 		</blockquote>
 	</details>
 </details>
-
----
-
-## Contributing
-
-- **💬 [Join the Discussions](https://github.com/reyharighy/data-analyst-and-science-projects/discussions)**: Share your insights, provide feedback, or ask questions.
-- **🐛 [Report Issues](https://github.com/reyharighy/data-analyst-and-science-projects/issues)**: Submit bugs found or log feature requests for the `data-analyst-and-science-projects` project.
-- **💡 [Submit Pull Requests](https://github.com/reyharighy/data-analyst-and-science-projects/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
 
 <details closed>
 <summary>Contributing Guidelines</summary>
