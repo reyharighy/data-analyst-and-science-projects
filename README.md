@@ -240,16 +240,6 @@ This project accelerates data-driven decision-making by offering modular tools f
 8. **Review**: Once your PR is reviewed and approved, it will be merged into the main branch. Congratulations on your contribution!
 </details>
 
-<details closed>
-<summary>Contributor Graph</summary>
-<br>
-<p align="left">
-   <a href="https://github.com/reyharighy">
-      <img src="https://contrib.rocks/image?repo=reyharighy/data-analyst-and-science-projects">
-   </a>
-</p>
-</details>
-
 ---
 
 <div align="left"><a href="#top">⬆ Return</a></div>
